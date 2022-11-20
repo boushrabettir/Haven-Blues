@@ -8,7 +8,7 @@ My experience in games:
   - C++
   
 Goals (2022-2023):
-  - Reach an understanding of C++ Game Physics
+  - Reach an understanding of C Game Physics
   - Understand how to use a 3D engine more
   - Become more proficient in the languages stated above
   - Have a complete understanding of Data Structures and Algorithms along with Databases
