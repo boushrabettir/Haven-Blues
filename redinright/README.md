@@ -8,6 +8,7 @@ A 2D Unity game inspired by the Matrix. Each level has a more scary enviornment,
 - Dialogue text effect
 - Green and red bars increase/decrease
 - Heavy animations using Unity Animation window
+- Following NPC
 
 # Disclaimer
 
