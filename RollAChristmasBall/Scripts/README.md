@@ -1,6 +1,6 @@
 # Roll A Christmas Ball
 
-A game where forced is applied to a rolling ball by the user and must collect the christmas gifts to get up to 8 points.
+A game created in a day where forced is applied to a rolling ball by the user and must collect the christmas gifts to get up to 8 points.
 
 No sprites were taken or used from other creators.
 
