@@ -2,12 +2,15 @@
 
 A game created in a day where forced is applied to a rolling ball by the user and must collect the christmas gifts to get up to 8 points.
 
-No sprites were taken or used from other creators.
 
 # In Game
 - A decreasing timer
 - Basic point and health system
 - Spikes that deal the user damage
+
+# Disclaimer
+
+The background music is not my own and was taken from itch.io by the respected creator.
 
 # Images
 
