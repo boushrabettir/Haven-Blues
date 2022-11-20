@@ -1,4 +1,4 @@
-# read_me_first
+# Good day, welcome!
 
 Good day, my name is Boushra Bettir and I love to code websites and games. 
 Please note that all the sprites present in both these games are not my own. All sprites come from Itch.io.
