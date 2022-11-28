@@ -48,7 +48,7 @@ public class Log : Enemy
 
     public virtual void CheckDistance()
     {
-        if (Vector2.Distance(target.position, transform.position) <= chaseRadius && Vector2. Distance(target.position, transform.position) > attackRadius )
+        if (Vector2.Distance(target.position, transform.position) <= chaseRadius && Vector2.Distance(target.position, transform.position) > attackRadius )
 
         {
             if (currentState == EnemyState.idle || currentState == EnemyState.walk && currentState != EnemyState.stagger)
