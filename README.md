@@ -15,7 +15,7 @@ A game created in 4-5 months in Unity inspired by Harvest Moon and Zelda.
 
 # Disclaimer 
 
-All of the seen sprites are not mine and were taken from itch.io by their respected creators.
+All of the seen sprites are not mine and were taken from itch.io by their respective creators.
 
 # Photos 
 <img width="1413" alt="Screen Shot 2022-11-20 at 3 10 59 PM" src="https://user-images.githubusercontent.com/116927138/202931761-461c296e-d08c-4324-933e-e264ae78b999.png">
