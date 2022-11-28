@@ -5,6 +5,7 @@ using UnityEngine;
 public class CameraMovement : MonoBehaviour
 {
 
+   //Changed camera system to the built in Cinematic Unity system
 
     public Vector2 maxPos;
     public Vector2 minPos;
