@@ -14,10 +14,7 @@ public class PatrolEnemy : Log
 
     public override void CheckDistance()
     {
-        if (Vector2.Distance(target.position,
-                     transform.position) <= chaseRadius
-
-                && Vector2.Distance(target.position, transform.position) > attackRadius)
+        if (Vector2.Distance(target.position, transform.position) <= chaseRadius && Vector2.Distance(target.position, transform.position) > attackRadius)
 
         {
             if (currentState == EnemyState.idle || currentState == EnemyState.walk && currentState != EnemyState.stagger)
@@ -40,12 +37,12 @@ public class PatrolEnemy : Log
                 if (Vector2.Distance(transform.position, path[currentPoint].position) > roundingDistance)
             {
 
-
-                 Vector3 temp = Vector3.MoveTowards(transform.position, path[currentPoint].position, moveSpeed * Time.deltaTime);
+                Vector3 temp = Vector3.MoveTowards(transform.position, path[currentPoint].position, moveSpeed * Time.deltaTime);
                 changeAnim(temp - transform.position);
                 thisRigidBody.MovePosition(temp);
 
             }else
+            
             {
 
                 ChangePath();
@@ -62,7 +59,7 @@ public class PatrolEnemy : Log
             currentPoint = 0;
             currentGoal = path[0];
 
-        }else
+        } else
         {
             currentPoint++;
             currentGoal = path[currentPoint];
