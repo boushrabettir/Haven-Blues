@@ -24,13 +24,13 @@ public class Enemy : Coin
 
     public Animator anim;
 
-    public string enemyName; // this is optional lol
+    public string enemyName;
 
     public int baseAttack;
 
     public float moveSpeed;
 
-    public Vector2 homePosition; // havnet used this yes
+    public Vector2 homePosition; // Have not used this yet
 
     public Loottable theLoot;
 
