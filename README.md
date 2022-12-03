@@ -13,6 +13,11 @@ A game created in 4-5 months in Unity inspired by Harvest Moon and Zelda.
 - Several scenes
 - Breakable Pots
 
+# Working On Currently
+- Fixing bugs
+- Title Screen
+- More gameplay elements 
+
 # Disclaimer 
 
 All of the seen sprites are not mine and were taken from itch.io by their respective creators.
